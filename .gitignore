@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+*.log
+
+# Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Env
+.env*
+
+# Build outputs
+action/frontend/.next/
+action/frontend/out/
+action/frontend/dist/
+action/fhevm-hardhat-template/artifacts/
+action/fhevm-hardhat-template/cache/
+action/fhevm-hardhat-template/coverage/
+action/fhevm-hardhat-template/coverage.json
+
+# Temporary
+tmp/
+temp/
+
+
